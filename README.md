@@ -11,8 +11,7 @@ I am passionate about solving real-world problems through **AI, IoT, and Edge Co
 ### 🏆 **What I Do**  
 
 🔹 **Software Engineer Associate @ Northwestern University**  
-- Contributing to the **SAGE project** at Argonne National Laboratory  
-- Leading the **LoRaWAN** integration project  
+- Contributing to the **[SAGE](https://sagecontinuum.org/) project** at Argonne National Laboratory    
 - Working on **Edge Computing, AI, and IoT solutions**  
 
 🔹 **Former Programmer Analyst @ Armoloy Illinois**  
