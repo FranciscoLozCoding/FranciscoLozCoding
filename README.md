@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi there, I'm Francisco Lozano! 👋  
 
-<!--
-**FranciscoLozCoding/FranciscoLozCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | AI & Edge Computing Enthusiast**  
 
-Here are some ideas to get you started:
+I am passionate about solving real-world problems through **AI, IoT, and Edge Computing**. Whether it's **tackling data science challenges**, or pushing the boundaries of **software engineering**, I strive to make an impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪 In my free time, you can find me **at the gym, exploring new AI models, or competing in data challenges**.  
+
+---
+
+### 🏆 **What I Do**  
+
+🔹 **Software Engineer Associate @ Northwestern University**  
+- Contributing to the **SAGE project** at Argonne National Laboratory  
+- Leading the **LoRaWAN** integration project  
+- Working on **Edge Computing, AI, and IoT solutions**  
+
+🔹 **Former Programmer Analyst @ Armoloy Illinois**  
+- Developed a **custom ERP** for business operations  
+- Built **Power BI dashboards** for data-driven decisions  
+- Created a **Chemistry data application** for streamlined analysis  
+
+🔹 **Research Aide @ Argonne National Laboratory**  
+- Integrated **Edge Computing with HPC** for real-time ML processing  
+- Worked on **machine learning model deployment at the edge**  
+
+---
+
+### 🎓 **Education**  
+
+📖 **Master of Science in Data Science (Computational Methods)** 
+📖 **Bachelor of Science in Operations & Information Management** 
+📖 **Minor in Computer Science**  
+
+---
+
+### 📬 **Let's Connect!**  
+
+💼 [LinkedIn](https://www.linkedin.com/in/FranLozData)  
+📂 [GitHub](https://github.com/FranciscoLozCoding)  
