@@ -27,9 +27,9 @@ I am passionate about solving real-world problems through **AI, IoT, and Edge Co
 
 ### 🎓 **Education**  
 
-📖 **Master of Science in Data Science (Computational Methods)** 
-📖 **Bachelor of Science in Operations & Information Management** 
-📖 **Minor in Computer Science**  
+- 📖 **Master of Science in Data Science (Computational Methods)** 
+- 📖 **Bachelor of Science in Operations & Information Management** 
+- 📖 **Minor in Computer Science**  
 
 ---
 
